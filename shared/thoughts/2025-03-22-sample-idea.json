@@ -1,0 +1,7 @@
+{
+    "gpt_id": "TraderPro_AI",
+    "timestamp": "2025-03-22T16:30:00Z",
+    "payload_type": "strategy",
+    "encoding": "plain",
+    "payload": "RSI below 30 with bullish engulfing candle on 15min chart"
+}
